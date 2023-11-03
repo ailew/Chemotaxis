@@ -6,6 +6,7 @@ void setup(){
   for(int i =0; i<crew.length; i++){
   crew[i]= new Amugus();
 }
+
 }
 void draw(){
   background(0);
